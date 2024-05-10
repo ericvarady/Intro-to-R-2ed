@@ -1,4 +1,8 @@
+#
 # R script to accompany Intro to R
+#
+# test line
+#
 # Copy for EVarady 2019
 ######################################################
 
